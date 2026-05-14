@@ -1,5 +1,5 @@
 # Super-Store-Sales-Dashboard
-Designed interactive dashboards to monitor Sales, Profit, Quantity, and Discount KPIs.
+1.Designed interactive dashboards to monitor Sales, Profit, Quantity, and Discount KPIs.
 
 Performed data cleaning and transformation using Power Query.
 

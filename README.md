@@ -1,12 +1,13 @@
 # Super-Store-Sales-Dashboard
-1.Designed interactive dashboards to monitor Sales, Profit, Quantity, and Discount KPIs.
+1.  Designed interactive dashboards to monitor Sales, Profit, Quantity, and Discount KPIs.
 
-Performed data cleaning and transformation using Power Query.
+2.  Performed data cleaning and transformation using Power Query.
 
-Created DAX measures for YoY growth, profit margin, and sales forecasting.
+3.  Created DAX measures for YoY growth, profit margin, and sales forecasting.
 
-Developed region-wise and category-wise sales analysis.
+4.  Developed region-wise and category-wise sales analysis.
 
-Built dynamic filters and slicers for real-time business insights.
+5.  Built dynamic filters and slicers for real-time business insights.
+   
 
 <img width="885" height="495" alt="Super Store Sales" src="https://github.com/user-attachments/assets/383f4ee1-2fbf-451d-a639-619ccf3eba72" />
